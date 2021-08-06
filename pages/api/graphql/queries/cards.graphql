@@ -1,0 +1,7 @@
+query {
+  getAll {
+    _id
+    title
+    author_id
+  }
+}
